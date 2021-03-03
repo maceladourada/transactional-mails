@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.2](https://github.com/ecomplus/transactional-mails/compare/v1.10.1...v1.10.2) (2021-03-03)
+
+
+### Bug Fixes
+
+* **i18n:** changing voided mail text ([e626acb](https://github.com/ecomplus/transactional-mails/commit/e626acb))
+
+
+
 ### [1.10.1](https://github.com/ecomplus/transactional-mails/compare/v1.10.0...v1.10.1) (2021-01-28)
 
 
