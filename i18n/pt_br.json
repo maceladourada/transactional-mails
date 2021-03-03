@@ -43,7 +43,7 @@
   "unauthorized_title": "não foi possível processar seu pagamento.",
   "unauthorized_text": "Você adicionou itens ao seu carrinho de compras, mas o pagamento não foi aprovado. Visite seu pedido e tente comprar novamente.",
   "voided_title": "seu pedido foi cancelado",
-  "voided_text": "Seu pedido foi cancelado conforme sua solicitação.",
+  "voided_text": "Não foi identificado nenhum pagamento, logo seu pedido foi cancelado. Esperamos que volte a comprar em nossa loja em breve!",
   "or": "Ou",
   "visit_store": "visite nossa loja",
   "go_to_store": "Ir para loja",
